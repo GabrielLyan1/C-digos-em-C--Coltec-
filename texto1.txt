@@ -1,0 +1,4 @@
+numero de alunos: 3 
+Felipe 5 9 
+Sergio 6 8
+Carlos 4 7 

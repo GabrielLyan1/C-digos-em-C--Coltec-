@@ -1,0 +1,16 @@
+Felipe 7.0 
+Sergio 7.0 
+Carlos 5.5 
+
+
+Variancia aluno 1: 4.0 
+
+
+Variancia aluno 2: 1.0 
+
+
+Variancia aluno 3: 2.3 
+
+desvio padrao aluno 1: 2.000
+desvio padrao aluno 2: 1.000
+desvio padrao aluno 3: 1.500
